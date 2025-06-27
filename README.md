@@ -1,6 +1,7 @@
 # ProbIP: Probabilistic Inertial Poser
 
-**Coming soon — Code and models will be released shortly. Stay tuned!**
+**📰 [NEW] Accepted at ICCV 2025!**  
+**🚀 Code and models coming soon — stay tuned!**
 
 ---
 
