@@ -1,0 +1,9 @@
+torch
+lightning
+wandb
+tqdm
+articulate
+numpy
+scipy
+opencv-python
+chumpy 
