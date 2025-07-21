@@ -15,9 +15,9 @@
 ## 🧭 Overview
 
 **ProbIP** is a novel probabilistic human motion estimation framework designed to work with sparse inertial measurements (e.g., from 6 IMUs).  
-Unlike existing methods that rely on physical priors or heuristics, ProbIP directly models uncertainty in motion prediction through probabilistic representations — enabling robust and accurate full-body motion reconstruction, even under sparse sensor configurations.
+Unlike existing methods that rely on physical priors or heuristics, ProbIP directly models uncertainty in motion prediction through probabilistic representations, enabling robust and accurate full-body motion reconstruction, even under sparse sensor configurations.
 
-Our model not only predicts full-body pose sequences but also captures and quantifies uncertainty in the motion predictions — essential for real-world deployment in safety-critical or interactive environments.
+Our model not only predicts full-body pose sequences but also captures and quantifies uncertainty in the motion predictions, essential for real-world deployment in interactive environments.
 
 🎥 Check out qualitative video results in `submission/videos/`
 
@@ -29,8 +29,7 @@ Our model not only predicts full-body pose sequences but also captures and quant
 
 - **PDN (Progressive Distribution Narrowing)**: A unique mechanism that gradually refines the motion distribution across layers to stabilize training and improve prediction quality across diverse motion types.
 
-- **Sensor Efficient**: Achieves SOTA results with just **6 IMUs**, and remains competitive with fewer sensors — ideal for real-world applications with hardware constraints.
-
+- **Sensor Efficient**: Achieves SOTA results with just **6 IMUs**, and remains competitive with fewer sensors, ideal for real-world applications with hardware constraints.
 ---
 
 ## 📊 Experimental Highlights
